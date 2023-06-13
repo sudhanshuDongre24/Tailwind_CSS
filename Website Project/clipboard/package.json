@@ -8,7 +8,7 @@
     "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch --watch-poll"
   },
   "keywords": [],
-  "author": "",
+  "author": "sudhanshu",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.3.2"
