@@ -1,14 +1,14 @@
 {
-  "name": "simple-tailwind-starter",
+  "name": "grid Testimonial",
   "version": "1.0.0",
-  "description": "Simple file structure for Tailwind projects",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
     "build": "tailwindcss -i ./input.css -o ./css/style.css"
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "devDependencies": {
     "@tailwindcss/line-clamp": "^0.4.4",
     "tailwindcss": "^3.0.24"
