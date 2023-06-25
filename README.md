@@ -4,9 +4,9 @@
 
 This respositary is a consist of project by course
 
-#####Tailwind CSS From Scratch | Learn By Building Projects
+####Tailwind CSS From Scratch | Learn By Building Projects
 Build great looking layouts fast and efficiently using Tailwind CSS utility classes
-######by  Brad Traversy
+#####by  Brad Traversy
 [Course Link](https://https://www.udemy.com/course/tailwind-from-scratch/)
 [Original Repo Link](https://https://github.com/bradtraversy/tailwind-course-projects)
 
