@@ -4,14 +4,14 @@
 
 This respositary is a consist of project by course
 
-#### Tailwind CSS From Scratch | Learn By Building Projects
+##### Tailwind CSS From Scratch | Learn By Building Projects
 Build great looking layouts fast and efficiently using Tailwind CSS utility classes
 ##### by  Brad Traversy
 [Course Link](https://https://www.udemy.com/course/tailwind-from-scratch/) <br>
 [Original Repo Link](https://https://github.com/bradtraversy/tailwind-course-projects)
 
 
-### Mini Project
+#### Mini Project
 
 - Email Subscribe | 	[Live Demo](https://tailwindcssmini-email-subscribe.netlify.app/)
 - Pricing Grids	  |   [Live Demo](https://tailwindcssmini-pricing-grid.netlify.app/)
@@ -21,7 +21,7 @@ Build great looking layouts fast and efficiently using Tailwind CSS utility clas
 
 
 
-### Website Project
+#### Website Project
 
 - Clipboard	| [Live Demo](https://tailwindcsswebsite-clipboard.netlify.app/)
 - Loopstudios | 	[Live Demo](https://tailwindcsswebsite-loopstudio.netlify.app/)
